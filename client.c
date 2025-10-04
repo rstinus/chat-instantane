@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2025 Rémy Stinus
+ *
+ * Ce projet est sous licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International (CC BY-NC 4.0)
+ * https://creativecommons.org/licenses/by-nc/4.0/
+ *
+ * Vous pouvez partager et modifier ce code, à condition de :
+ *   - créditer l’auteur original,
+ *   - ne pas en faire un usage commercial.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
